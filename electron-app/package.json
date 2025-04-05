@@ -1,0 +1,16 @@
+{
+  "name": "teampeak",
+  "productName": "Team Peak - Sport Fatigue Detector",
+  "version": "1.0.0",
+  "description": "sport fatigue detector",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eason Peng",
+  "license": "MIT",
+  "proxy": "http://127.0.0.1:5000",
+  "dependencies": {
+    "electron": "^35.1.2"
+  }
+}
